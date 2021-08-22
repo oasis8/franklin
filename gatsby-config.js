@@ -3,6 +3,7 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "franklin",
   },
+  pathPrefix: "/franklin",
   plugins: [
     "gatsby-plugin-gatsby-cloud",
     {
